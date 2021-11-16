@@ -1,0 +1,11 @@
+GL_LOG_FILE log. local time Tue Jan 19 16:56:03 2021
+
+starting GLFW 3.3.2 Win32 WGL EGL OSMesa MinGW DLL
+renderer: Intel(R) HD Graphics 630
+version: 4.1.0 - Build 26.20.100.7263
+creating shader from test_vs.glsl...
+shader compiled. index 1
+creating shader from test_fs.glsl...
+shader compiled. index 2
+created programme 3. attaching shaders 1 and 2...
+program 3 GL_VALIDATE_STATUS = GL_TRUE

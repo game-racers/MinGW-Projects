@@ -1,0 +1,10 @@
+.CPP file
+//-In the main function, fill in your obj file path (modelName)
+//-In the function "computeFaceNormals", fill in the cross product (nx, ny, nz)
+
+Fragement shader
+//-Move light so that it is shining on the front of the object
+-Fill in light and material colors
+-Change the specular power
+-Fill in the ambient color equation
+-Fill in the fragment color using the Phong equation
